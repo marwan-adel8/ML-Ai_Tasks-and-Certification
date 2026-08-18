@@ -25,12 +25,13 @@ The following Kaggle certifications have been completed:
 
 ```text
 ML-Models/
+├── Kaggle_Certification/
+│   ├── Computer_Vision_Certificate.png
+│   └── Intro_to_Deep_Learning_Certificate.png
 ├── Task-1/
 ├── Task-2/
-├── Computer_Vision_Certificate.png
-├── Intro_to_Deep_Learning_Certificate.png
+├── My Learning _ NVIDIA.pdf
 └── README.md
-```
 
 
 ## Author
